@@ -1,0 +1,2 @@
+Prefix plugins/Overlap/example/
+Plugin Overlap inputfile parameters.txt outputfile overlap.txt
